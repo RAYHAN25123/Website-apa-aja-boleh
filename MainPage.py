@@ -13,3 +13,8 @@ st.title("sekian terimakasi")
 st.subheader("Rating seberapa kampung dio")
 st.number_input("Kasih Rating")
 
+st.title("DIO HITAM")
+st.title("DIO HITAM")
+st.title("DIO HITAM")
+st.title("DIO HITAM")
+st.title("DIO HITAM")
